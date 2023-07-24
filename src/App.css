@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Raleway&family=Roboto:wght@300&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    margin: 0;
+
+}
+
+.container {
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: space-evenly;
+    padding: 20px 30px;
+    background: url('../public/images/Back\ Ground.png');
+    width: 1920px;
+    height: 1008px;
+    flex-shrink: 0;
+}
