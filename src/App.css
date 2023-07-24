@@ -11,10 +11,9 @@ body {
 
 .container {
     display: flex;
-    /* justify-content: space-around; */
     justify-content: space-evenly;
     padding: 20px 30px;
-    background: url('../public/images/Back\ Ground.png');
+    background: url('../public/images/Back Ground.png');
     width: 1920px;
     height: 1008px;
     flex-shrink: 0;
